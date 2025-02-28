@@ -1,0 +1,8 @@
+{
+    "persons":[
+        {"name":"rahim","age": 25,"hometown":"Dhaka", "married":false},
+        {"name":"kahim","age": 28,"hometown":"Chattogram", "married":true},
+        {"name":"rahasd2qim","age": 225,"hometown":"maymanhaka", "married":false},
+        {"name":"rasdahim","age": 251,"hometown":"khhhuaka", "married":true}
+    ]
+}
