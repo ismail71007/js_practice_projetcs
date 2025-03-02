@@ -85,4 +85,4 @@ function newbook(e) {
 function removebook(e){
     e.preventDefault();
     UI.deletefrombook(e.target);
-}g
+}
